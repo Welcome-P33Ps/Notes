@@ -1,3 +1,3 @@
 # Notes
 
-A Collection of notes based on going to seminars and events. 
+<p> A Collection of notes based on going to seminars and events. <P>
